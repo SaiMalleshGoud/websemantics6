@@ -9,3 +9,4 @@ Python,
 RDFLIB library (can be installed using "pip install rdflib"),
 Visual Studio Code
 
+To generate RDF file - Please run the "csv_rdf.py" python file, where the csv input files are "reduced_dataset1.csv " and "reduced_dataset2.csv"
