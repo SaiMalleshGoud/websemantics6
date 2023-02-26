@@ -6,6 +6,6 @@ Technology stack requirements-
 
 Protégé Ontology Editor,
 Python,
-RDFLIB library (can be install using "pip install rdflib"),
+RDFLIB library (can be install using "pip installed rdflib"),
 Visual Studio Code
 
