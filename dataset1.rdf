@@ -1,0 +1,2289 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ns1="http://schema.org/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <rdf:Description rdf:about="http://example.org/my_ontology#54">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Play it Again, Sam</ns1:movie_title>
+    <ns1:release_year>1972</ns1:release_year>
+    <ns1:locations>Balboa at 22nd Avenue</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#186">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Groove</ns1:movie_title>
+    <ns1:release_year>2000</ns1:release_year>
+    <ns1:locations>435 23rd Street at Illinois</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#19">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>D.O.A</ns1:movie_title>
+    <ns1:release_year>1950</ns1:release_year>
+    <ns1:locations>Powell &amp; California Streets</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#146">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Jade</ns1:movie_title>
+    <ns1:release_year>1995</ns1:release_year>
+    <ns1:locations>Japanese Tea Garden (Hagiwara Tea Garden Drive, Golden Gate Park)</ns1:locations>
+    <ns1:fun_facts>The Japanese Hagiwara family invented "Chinese" fortune cookies in the tea-garden</ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#93">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>A View to a Kill</ns1:movie_title>
+    <ns1:release_year>1985</ns1:release_year>
+    <ns1:locations>City Hall</ns1:locations>
+    <ns1:fun_facts>The dome of SF's City Hall is almost a foot taller than that of the US Capitol Building. In 1954, Joe DiMaggio and Marilyn Monroe married at the Beaux Arts-style building.</ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#52">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Harold and Maude</ns1:movie_title>
+    <ns1:release_year>1971</ns1:release_year>
+    <ns1:locations>Conservatory of Flowers (Golden Gate Park)</ns1:locations>
+    <ns1:fun_facts>The Conservatory, unveiled in 1879, is the oldest public conservatory in the Western Hemisphere.</ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#75">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Can't Stop the Music</ns1:movie_title>
+    <ns1:release_year>1980</ns1:release_year>
+    <ns1:locations>101 Henry Adams Place</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#301">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Budding Prospects, Pilot</ns1:movie_title>
+    <ns1:release_year>2017</ns1:release_year>
+    <ns1:locations>3050 24th Street</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#297">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Murder in the First, Season 3</ns1:movie_title>
+    <ns1:release_year>2016</ns1:release_year>
+    <ns1:locations>Golden Gate Park</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#262">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Americana</ns1:movie_title>
+    <ns1:release_year>2015</ns1:release_year>
+    <ns1:locations>St. Francis Episcopal Church (399 San Fernando Way)</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#310">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Venom</ns1:movie_title>
+    <ns1:release_year>2018</ns1:release_year>
+    <ns1:locations>O'Farrell between Leavenworth and Jones</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#187">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Just One Night</ns1:movie_title>
+    <ns1:release_year>2000</ns1:release_year>
+    <ns1:locations>Ferry Building</ns1:locations>
+    <ns1:fun_facts>Every hour and half-hour, the clock bell atop the Ferry Building chimes portions of the Westminster Quarters.</ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#206">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>The Sweetest Thing</ns1:movie_title>
+    <ns1:release_year>2002</ns1:release_year>
+    <ns1:locations>Golden Gate National Recreation Area</ns1:locations>
+    <ns1:fun_facts>The size of the Recreation Area is over two and a half greater than that of the city and county of San Francisco.</ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#218">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>American Yearbook</ns1:movie_title>
+    <ns1:release_year>2004</ns1:release_year>
+    <ns1:locations></ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#170">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Desperate Measures</ns1:movie_title>
+    <ns1:release_year>1998</ns1:release_year>
+    <ns1:locations></ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#313">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Always Be My Maybe</ns1:movie_title>
+    <ns1:release_year>2019</ns1:release_year>
+    <ns1:locations>Golden Gate Music Concourse</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#261">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Age of Adaline</ns1:movie_title>
+    <ns1:release_year>2015</ns1:release_year>
+    <ns1:locations>Pier 50- end of the pier</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#303">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Etruscan Smile</ns1:movie_title>
+    <ns1:release_year>2017</ns1:release_year>
+    <ns1:locations>Treasure Island</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#15">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>The Lady from Shanghai</ns1:movie_title>
+    <ns1:release_year>1947</ns1:release_year>
+    <ns1:locations>Steinhart Aquarium (California Academy of Sciences, Golden Gate Park)</ns1:locations>
+    <ns1:fun_facts>The Steinhart Aquarium is home to over 38,000 animals, which represent more than 900 species.</ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#22">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Sudden Fear</ns1:movie_title>
+    <ns1:release_year>1952</ns1:release_year>
+    <ns1:locations>Lombard Street</ns1:locations>
+    <ns1:fun_facts>Lombard Street is not actually the most crooked in SF. That honor goes to Potrero Hill's Vermont Street between 22nd and 23rd.</ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#32">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Pleasure of His Company</ns1:movie_title>
+    <ns1:release_year>1961</ns1:release_year>
+    <ns1:locations>Grace Cathedral Episcopal Church (1100 California Street)</ns1:locations>
+    <ns1:fun_facts>Grace Cathedral Episcopal Church is the West Coast's largest Episcopalian cathedral.</ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#78">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Serial</ns1:movie_title>
+    <ns1:release_year>1980</ns1:release_year>
+    <ns1:locations>Ferry Building</ns1:locations>
+    <ns1:fun_facts>Every hour and half-hour, the clock bell atop the Ferry Building chimes portions of the Westminster Quarters.</ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#41">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Guess Who's Coming to Dinner</ns1:movie_title>
+    <ns1:release_year>1967</ns1:release_year>
+    <ns1:locations>Sutter Street between Powell and Mason</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#83">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Chan is Missing</ns1:movie_title>
+    <ns1:release_year>1982</ns1:release_year>
+    <ns1:locations>Li Po (916 Grant Avenue at Washington, Chinatown)</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#290">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Chance- Season 1 ep104</ns1:movie_title>
+    <ns1:release_year>2016</ns1:release_year>
+    <ns1:locations>Bush and Sansome St.</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#225">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Bee Season</ns1:movie_title>
+    <ns1:release_year>2005</ns1:release_year>
+    <ns1:locations></ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#59">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>The Laughing Policeman</ns1:movie_title>
+    <ns1:release_year>1973</ns1:release_year>
+    <ns1:locations></ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#291">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Chance- Season 1 ep106</ns1:movie_title>
+    <ns1:release_year>2016</ns1:release_year>
+    <ns1:locations>Washington Square Park</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#323">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Goliath- Season 4</ns1:movie_title>
+    <ns1:release_year>2021</ns1:release_year>
+    <ns1:locations>California and Mason</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#10">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>The Maltese Falcon</ns1:movie_title>
+    <ns1:release_year>1941</ns1:release_year>
+    <ns1:locations>Golden Gate Bridge</ns1:locations>
+    <ns1:fun_facts>With 23 miles of ladders and 300,000 rivets in each tower, the Golden Gate Bridge was the world's longest span when it opened in 1937.</ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#287">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Chance - Season 1ep105</ns1:movie_title>
+    <ns1:release_year>2016</ns1:release_year>
+    <ns1:locations>Private alley along 20th St. between Tennessee and Minnesota</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#51">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Dirty Harry</ns1:movie_title>
+    <ns1:release_year>1971</ns1:release_year>
+    <ns1:locations>Marina Green, Marina District</ns1:locations>
+    <ns1:fun_facts>Before the 1906 earthquake, the land on which Marina Green sits was a tidal marsh, and rubble from the earthquake was dumped on the site. However, the site was filled in to provide land for the 1915 Panama-Pacific Exhibition.</ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#104">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Patty Hearst</ns1:movie_title>
+    <ns1:release_year>1988</ns1:release_year>
+    <ns1:locations>Bank of America (38th Street at Balboa Street)</ns1:locations>
+    <ns1:fun_facts>The Bank of America Building was the tallest building on the West Coast from 1969-1972, when it was surpassed by the TransAmerica Pyramid. Today, the Bank of America building is the 5th tallest building on the West Coast.</ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#30">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Midnight Lace</ns1:movie_title>
+    <ns1:release_year>1960</ns1:release_year>
+    <ns1:locations>Fairmont Hotel (950 Mason Street, Nob Hill)</ns1:locations>
+    <ns1:fun_facts>In 1945 the Fairmont hosted the United Nations Conference on International Organization as delegates arrived to draft a charter for the organization. The U.S. Secretary of State, Edward Stettinius drafted the charter in the hotel's Garden Room.</ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#73">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Escape From Alcatraz</ns1:movie_title>
+    <ns1:release_year>1979</ns1:release_year>
+    <ns1:locations>Alcatraz Island</ns1:locations>
+    <ns1:fun_facts>Alcatraz Island was a military fort before it became a prison.</ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#124">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Basic Instinct</ns1:movie_title>
+    <ns1:release_year>1992</ns1:release_year>
+    <ns1:locations>Yerba Buena Center for the Arts</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#67">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>A Night Full of Rain</ns1:movie_title>
+    <ns1:release_year>1978</ns1:release_year>
+    <ns1:locations>Embarcadero Freeway</ns1:locations>
+    <ns1:fun_facts>Embarcadero Freeway, which was featured in the film was demolished in 1989 because of structural damage from the 1989 Loma Prieta Earthquake)</ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#97">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Big Trouble in Little China</ns1:movie_title>
+    <ns1:release_year>1986</ns1:release_year>
+    <ns1:locations></ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#65">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>The Enforcer</ns1:movie_title>
+    <ns1:release_year>1976</ns1:release_year>
+    <ns1:locations>Sutter &amp; Webster Streets</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#50">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>They Call Me MISTER Tibbs</ns1:movie_title>
+    <ns1:release_year>1970</ns1:release_year>
+    <ns1:locations></ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#95">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Jagged Edge</ns1:movie_title>
+    <ns1:release_year>1985</ns1:release_year>
+    <ns1:locations>Golden Gate Bridge</ns1:locations>
+    <ns1:fun_facts>With 23 miles of ladders and 300,000 rivets in each tower, the Golden Gate Bridge was the world's longest span when it opened in 1937.</ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#25">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>The Ten Commandments</ns1:movie_title>
+    <ns1:release_year>1956</ns1:release_year>
+    <ns1:locations>St. Peter &amp; Paul's Church (666 Filbert Street, Washington Square)</ns1:locations>
+    <ns1:fun_facts>Exteriors of the church were used.</ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#236">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Babies</ns1:movie_title>
+    <ns1:release_year>2010</ns1:release_year>
+    <ns1:locations></ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#100">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Star Trek IV: The Voyage Home</ns1:movie_title>
+    <ns1:release_year>1986</ns1:release_year>
+    <ns1:locations>West Harbor, Marina District</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#210">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Hulk</ns1:movie_title>
+    <ns1:release_year>2003</ns1:release_year>
+    <ns1:locations>Telegraph Hill</ns1:locations>
+    <ns1:fun_facts>Largely untouched by the 1906 earthquake, Telegraph Hill has the most pre-1870 buildings in the city.</ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#199">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Sweet November</ns1:movie_title>
+    <ns1:release_year>2001</ns1:release_year>
+    <ns1:locations>Marquee Lofts (1000 Van Ness Avenue at Alice B. Toklas Place)</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#17">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>To the Ends of the Earth</ns1:movie_title>
+    <ns1:release_year>1948</ns1:release_year>
+    <ns1:locations></ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#318">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Sonic the Hedgehog</ns1:movie_title>
+    <ns1:release_year>2020</ns1:release_year>
+    <ns1:locations>Grid within Montgomery St; Davis St; Pacific St; Bush St</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#305">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Silicon Valley Season 4</ns1:movie_title>
+    <ns1:release_year>2017</ns1:release_year>
+    <ns1:locations>Moscone Center Parking Garage/3rd St.</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#35">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Birdman of Alcatraz</ns1:movie_title>
+    <ns1:release_year>1962</ns1:release_year>
+    <ns1:locations>Alcatraz Island</ns1:locations>
+    <ns1:fun_facts>Alcatraz Island was a military fort before it became a prison.</ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#94">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Dim Sum: A Little Bit of Heart</ns1:movie_title>
+    <ns1:release_year>1985</ns1:release_year>
+    <ns1:locations>San Francisco International Airport</ns1:locations>
+    <ns1:fun_facts>SFO has a museum dedicated to aviation history.</ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#163">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Fathers' Day</ns1:movie_title>
+    <ns1:release_year>1997</ns1:release_year>
+    <ns1:locations></ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#176">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>What Dreams May Come</ns1:movie_title>
+    <ns1:release_year>1998</ns1:release_year>
+    <ns1:locations>Treasure Island</ns1:locations>
+    <ns1:fun_facts>An artificial island, Treasure Island was created for the 1939 Golden Gate International Exposition, and is named after the novel by Robert Louis Stevenson, a one-time San Francisco resident.</ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#231">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Tweek City</ns1:movie_title>
+    <ns1:release_year>2005</ns1:release_year>
+    <ns1:locations></ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#266">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Looking Season 2 ep 202</ns1:movie_title>
+    <ns1:release_year>2015</ns1:release_year>
+    <ns1:locations>901 Valencia Street</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#178">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Edtv</ns1:movie_title>
+    <ns1:release_year>1999</ns1:release_year>
+    <ns1:locations>Palace of Fine Arts (3301 Lyon Street)</ns1:locations>
+    <ns1:fun_facts>The original Palace was built for the 1915 Panama-Pacific Exposition, and completely destroyed in 1964. It was rebuilt in 1965.</ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#200">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>The Princess Diaries</ns1:movie_title>
+    <ns1:release_year>2001</ns1:release_year>
+    <ns1:locations>724 Brazil Avenue</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#98">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Kamikaze Hearts</ns1:movie_title>
+    <ns1:release_year>1986</ns1:release_year>
+    <ns1:locations>Market Street Between Noe and Sanchez</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#18">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>All About Eve</ns1:movie_title>
+    <ns1:release_year>1950</ns1:release_year>
+    <ns1:locations>Curran Theater (445 Geary Street)</ns1:locations>
+    <ns1:fun_facts>Called the Shubert Theatre in the film.</ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#119">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Shattered</ns1:movie_title>
+    <ns1:release_year>1991</ns1:release_year>
+    <ns1:locations></ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#184">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Bedazzled</ns1:movie_title>
+    <ns1:release_year>2000</ns1:release_year>
+    <ns1:locations>1155 Filbert Street at Hyde</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#115">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Pacific Heights</ns1:movie_title>
+    <ns1:release_year>1990</ns1:release_year>
+    <ns1:locations>Texas &amp; 19th Streets (Potrero Hill)</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#185">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Boys and Girls</ns1:movie_title>
+    <ns1:release_year>2000</ns1:release_year>
+    <ns1:locations>1122 Folsom Street</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#132">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Heart and Souls</ns1:movie_title>
+    <ns1:release_year>1993</ns1:release_year>
+    <ns1:locations>Stockton Tunnel (Stockton Street at Sutter Street)</ns1:locations>
+    <ns1:fun_facts>Opened in 1914, the Stockton Tunnel was built to provide North Beach residents access to the thriving downtown area.</ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#292">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Chance- Season 1 ep107</ns1:movie_title>
+    <ns1:release_year>2016</ns1:release_year>
+    <ns1:locations>Punjab CafÃ©, 838 24th St.</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#166">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Metro</ns1:movie_title>
+    <ns1:release_year>1997</ns1:release_year>
+    <ns1:locations>Bush Street at Jones</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#183">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>The Other Sister</ns1:movie_title>
+    <ns1:release_year>1999</ns1:release_year>
+    <ns1:locations>Transbay Terminal (Mission Street at 1st Street)</ns1:locations>
+    <ns1:fun_facts>Built in 1939, the Terminal linked San Francisco, the East Bay, and Sacramento by rail for the first time.</ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#251">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>The Internship</ns1:movie_title>
+    <ns1:release_year>2013</ns1:release_year>
+    <ns1:locations>Grant Ave from Sacramento to Clay</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#136">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>So I Married an Axe Murderer</ns1:movie_title>
+    <ns1:release_year>1993</ns1:release_year>
+    <ns1:locations>Vesuvio CafÃ© (255 Columbus Avenue)</ns1:locations>
+    <ns1:fun_facts>Jack Kerouac was a regular at the cafÃ©.</ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#63">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>The Towering Inferno</ns1:movie_title>
+    <ns1:release_year>1974</ns1:release_year>
+    <ns1:locations>Bank of America Building (555 California Street, Financial District)</ns1:locations>
+    <ns1:fun_facts>The Bank of America Building was the tallest building on the West Coast from 1969-1972, when it was surpassed by the TransAmerica Pyramid. Today, the Bank of America building is the 5th tallest building on the West Coast.</ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#243">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Alcatraz</ns1:movie_title>
+    <ns1:release_year>2012</ns1:release_year>
+    <ns1:locations>Filbert St. from Jones to Mason</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#26">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Pal Joey</ns1:movie_title>
+    <ns1:release_year>1957</ns1:release_year>
+    <ns1:locations>Spreckels Mansion (2080 Washington Street, Pacific Heights)</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#286">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Chance - Season 1 Pilot</ns1:movie_title>
+    <ns1:release_year>2016</ns1:release_year>
+    <ns1:locations>Harvey Milk Rec Center, 50 Scott St.</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#248">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Blue Jasmine</ns1:movie_title>
+    <ns1:release_year>2013</ns1:release_year>
+    <ns1:locations>Jones &amp; Pacific</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#42">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Point Blank</ns1:movie_title>
+    <ns1:release_year>1967</ns1:release_year>
+    <ns1:locations>Fort Point (Presidio, Golden Gate National Recreation Area)</ns1:locations>
+    <ns1:fun_facts>Built in 1853, Fort Point is the only West Coast fort built by the Union Army. Though the Confederate army planned to attack San Francisco, the commanding Confederate general learned that the war had ended while end route to SF.</ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#161">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>A Smile Like Yours</ns1:movie_title>
+    <ns1:release_year>1997</ns1:release_year>
+    <ns1:locations>75 California Street</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#131">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Fearless</ns1:movie_title>
+    <ns1:release_year>1993</ns1:release_year>
+    <ns1:locations>400 Montgomery Street</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#68">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Attack of the Killer Tomatoes</ns1:movie_title>
+    <ns1:release_year>1978</ns1:release_year>
+    <ns1:locations>Hyde Street Cable Car</ns1:locations>
+    <ns1:fun_facts>SF Cable Cars are the only moving National Historical Landmark.</ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#194">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Dr. Dolittle 2</ns1:movie_title>
+    <ns1:release_year>2001</ns1:release_year>
+    <ns1:locations>West Chrissy Field (Presidio, Golden Gate National Recreation Area)</ns1:locations>
+    <ns1:fun_facts>This movie was the first to film in the revamped Chrissy Field Picnic Area.</ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#58">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Magnum Force</ns1:movie_title>
+    <ns1:release_year>1973</ns1:release_year>
+    <ns1:locations>Cost Plus World Market (2552 Taylor Street)</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#269">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Looking Season 2 ep 205</ns1:movie_title>
+    <ns1:release_year>2015</ns1:release_year>
+    <ns1:locations>534 Hyde Street</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#175">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>The Parent Trap</ns1:movie_title>
+    <ns1:release_year>1998</ns1:release_year>
+    <ns1:locations>Administration Building (Treasure Island)</ns1:locations>
+    <ns1:fun_facts>An artificial island, Treasure Island was created for the 1939 Golden Gate International Exposition, and is named after the novel by Robert Louis Stevenson, a one-time San Francisco resident.</ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#222">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Twisted</ns1:movie_title>
+    <ns1:release_year>2004</ns1:release_year>
+    <ns1:locations>Red's Java House (Pier 30-32, The Embarcadero)</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#232">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>The Bridge</ns1:movie_title>
+    <ns1:release_year>2006</ns1:release_year>
+    <ns1:locations>Golden Gate Bridge</ns1:locations>
+    <ns1:fun_facts>With 23 miles of ladders and 300,000 rivets in each tower, the Golden Gate Bridge was the world's longest span when it opened in 1937.</ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#1">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>A Jitney Elopement</ns1:movie_title>
+    <ns1:release_year>1915</ns1:release_year>
+    <ns1:locations>20th and Folsom Streets</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#45">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Petulia</ns1:movie_title>
+    <ns1:release_year>1968</ns1:release_year>
+    <ns1:locations>Japanese Tea Garden, Hagiwara Tea Garden Drive, Golden Gate Park</ns1:locations>
+    <ns1:fun_facts>The Japanese Hagiwara family invented "Chinese" fortune cookies in the tea-garden</ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#81">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Street Music</ns1:movie_title>
+    <ns1:release_year>1981</ns1:release_year>
+    <ns1:locations></ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#152">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Happy Gilmore</ns1:movie_title>
+    <ns1:release_year>1996</ns1:release_year>
+    <ns1:locations></ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#188">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Live Nude Girls Unite</ns1:movie_title>
+    <ns1:release_year>2000</ns1:release_year>
+    <ns1:locations>Lusty Lady Bar (North Beach)</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#86">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Sudden Impact</ns1:movie_title>
+    <ns1:release_year>1983</ns1:release_year>
+    <ns1:locations>Near Point Lobos, El Camino Del Mar</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#216">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Under the Tuscan Sun</ns1:movie_title>
+    <ns1:release_year>2003</ns1:release_year>
+    <ns1:locations>Mecca Restaurant (2029 Market Street)</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#316">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>The Phone/Jexi</ns1:movie_title>
+    <ns1:release_year>2019</ns1:release_year>
+    <ns1:locations>135 Mississippi St</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#191">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Sausalito</ns1:movie_title>
+    <ns1:release_year>2000</ns1:release_year>
+    <ns1:locations>The Castro</ns1:locations>
+    <ns1:fun_facts>From 1910-1920 the Castro was called "Little Scandinavia" because of its high concentration of residents of Scandinavian ancestry.</ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#254">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Dawn of the Planet of the Apes</ns1:movie_title>
+    <ns1:release_year>2014</ns1:release_year>
+    <ns1:locations>University Club</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#189">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Playing Mona Lisa</ns1:movie_title>
+    <ns1:release_year>2000</ns1:release_year>
+    <ns1:locations>Conservatory of Flowers (Golden Gate Park)</ns1:locations>
+    <ns1:fun_facts>The Conservatory, unveiled in 1879, is the oldest public conservatory in the Western Hemisphere.</ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#212">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Mona Lisa Smile</ns1:movie_title>
+    <ns1:release_year>2003</ns1:release_year>
+    <ns1:locations></ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#31">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Flower Drum Song</ns1:movie_title>
+    <ns1:release_year>1961</ns1:release_year>
+    <ns1:locations>Golden Gate Bridge</ns1:locations>
+    <ns1:fun_facts>With 23 miles of ladders and 300,000 rivets in each tower, the Golden Gate Bridge was the world's longest span when it opened in 1937.</ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#106">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>The Last of the Gladiators</ns1:movie_title>
+    <ns1:release_year>1988</ns1:release_year>
+    <ns1:locations></ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#160">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Tin Cup</ns1:movie_title>
+    <ns1:release_year>1996</ns1:release_year>
+    <ns1:locations></ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#102">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Innerspace</ns1:movie_title>
+    <ns1:release_year>1987</ns1:release_year>
+    <ns1:locations>Mark Hopkins Intercontinental Hotel (1 Nob Hill Circle, Nob Hill)</ns1:locations>
+    <ns1:fun_facts>The Top of the Mark lounge and restaurant at the top of the hotel was formerly a penthouse suite.</ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#247">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Big Sur</ns1:movie_title>
+    <ns1:release_year>2013</ns1:release_year>
+    <ns1:locations>Tosca CafÃ© (242 Columbus Avenue, North Beach)</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#173">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Patch Adams</ns1:movie_title>
+    <ns1:release_year>1998</ns1:release_year>
+    <ns1:locations>Treasure Island</ns1:locations>
+    <ns1:fun_facts>An artificial island, Treasure Island was created for the 1939 Golden Gate International Exposition, and is named after the novel by Robert Louis Stevenson, a one-time San Francisco resident.</ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#230">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>The Zodiac</ns1:movie_title>
+    <ns1:release_year>2005</ns1:release_year>
+    <ns1:locations></ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#87">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>The Right Stuff</ns1:movie_title>
+    <ns1:release_year>1983</ns1:release_year>
+    <ns1:locations>American Can Company (Between Illinois &amp; Kentucky, 20th and 22nd Streets)</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#156">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Mother</ns1:movie_title>
+    <ns1:release_year>1996</ns1:release_year>
+    <ns1:locations>Golden Gate Bridge</ns1:locations>
+    <ns1:fun_facts>With 23 miles of ladders and 300,000 rivets in each tower, the Golden Gate Bridge was the world's longest span when it opened in 1937.</ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#293">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Chance- Season 1 ep108</ns1:movie_title>
+    <ns1:release_year>2016</ns1:release_year>
+    <ns1:locations>Huntington Park</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#128">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Sister Act</ns1:movie_title>
+    <ns1:release_year>1992</ns1:release_year>
+    <ns1:locations>St. Paul's Church (Church Street, Noe Valley)</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#39">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Good NeighborSam</ns1:movie_title>
+    <ns1:release_year>1964</ns1:release_year>
+    <ns1:locations>Various locations in San Francisco during driving scene</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#143">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Nina Takes a Lover</ns1:movie_title>
+    <ns1:release_year>1994</ns1:release_year>
+    <ns1:locations></ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#134">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Mrs. Doubtfire</ns1:movie_title>
+    <ns1:release_year>1993</ns1:release_year>
+    <ns1:locations>1200 Washington Street at Taylor Street</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#139">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Getting Even with Dad</ns1:movie_title>
+    <ns1:release_year>1994</ns1:release_year>
+    <ns1:locations>California &amp; Grant Streets</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#289">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Chance- Season 1 ep103</ns1:movie_title>
+    <ns1:release_year>2016</ns1:release_year>
+    <ns1:locations>60 Leavenworth St.</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#275">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Murder in the First, Season 2</ns1:movie_title>
+    <ns1:release_year>2015</ns1:release_year>
+    <ns1:locations>Potrero Hill Recreation Center (801 Arkansas Street)</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#274">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Looking Season 2 ep 210</ns1:movie_title>
+    <ns1:release_year>2015</ns1:release_year>
+    <ns1:locations>8 Octavia Street</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#307">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Beautiful Boy</ns1:movie_title>
+    <ns1:release_year>2018</ns1:release_year>
+    <ns1:locations>Divisadero between Broadway and Greenwich</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#263">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Ant-Man</ns1:movie_title>
+    <ns1:release_year>2015</ns1:release_year>
+    <ns1:locations>Conzelman Rd at McCollough Rd and down Conzelman Rd.</ns1:locations>
+    <ns1:fun_facts>Aerial shots</ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#312">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>The OA Part II</ns1:movie_title>
+    <ns1:release_year>2019</ns1:release_year>
+    <ns1:locations>Hyde St at Pacific to Washington St</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#167">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>The Game</ns1:movie_title>
+    <ns1:release_year>1997</ns1:release_year>
+    <ns1:locations>Merchant Exchange Building (465 California Street)</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#213">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Swing</ns1:movie_title>
+    <ns1:release_year>2003</ns1:release_year>
+    <ns1:locations>Broadway Studios (435 Broadway at Montgomery Street)</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#244">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>CSI: NY- episode 903</ns1:movie_title>
+    <ns1:release_year>2012</ns1:release_year>
+    <ns1:locations>Palace of Fine Arts</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#16">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>I Remember Mama</ns1:movie_title>
+    <ns1:release_year>1948</ns1:release_year>
+    <ns1:locations>Fairmont Hotel (950 Mason Street, Nob Hill)</ns1:locations>
+    <ns1:fun_facts>In 1945 the Fairmont hosted the United Nations Conference on International Organization as delegates arrived to draft a charter for the organization. The U.S. Secretary of State, Edward Stettinius drafted the charter in the hotel's Garden Room.</ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#270">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Looking Season 2 ep 206</ns1:movie_title>
+    <ns1:release_year>2015</ns1:release_year>
+    <ns1:locations>745 Treat Ave.</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#268">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Looking Season 2 ep 204</ns1:movie_title>
+    <ns1:release_year>2015</ns1:release_year>
+    <ns1:locations>Esta Noche, 3079 16th Street</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#11">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Gentleman Jim</ns1:movie_title>
+    <ns1:release_year>1942</ns1:release_year>
+    <ns1:locations>The Barbary Coast</ns1:locations>
+    <ns1:fun_facts>The Barbary Coast was a red-light district that was largely destroyed in the 1906 earthquake. Though some of the establishments were rebuilt after the earthquake, an anti-vice campaign put the establishments out of business.</ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#285">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Chance - Season 1 ep105</ns1:movie_title>
+    <ns1:release_year>2016</ns1:release_year>
+    <ns1:locations>Maiden Lane between Kearny and Grant</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#299">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Sense8 - Season 2</ns1:movie_title>
+    <ns1:release_year>2016</ns1:release_year>
+    <ns1:locations>Westerfeld House, 1198 Fulton St.</ns1:locations>
+    <ns1:fun_facts>In the 1940's, the house became a 14-unit apartment building that housed jazz musicians including John Handy. This location serves as the hideout for the San Francisco-based character Nomi.</ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#117">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Class Action</ns1:movie_title>
+    <ns1:release_year>1991</ns1:release_year>
+    <ns1:locations>Mission Dolores (3321 16th Street, Mission District)</ns1:locations>
+    <ns1:fun_facts>Mission Dolores' official name is Mission San Francisco de Assis. It is the oldest building in San Francisco, built in 1791, and has survived two major earthquakes.</ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#154">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Jack</ns1:movie_title>
+    <ns1:release_year>1996</ns1:release_year>
+    <ns1:locations></ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#118">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Dying Young</ns1:movie_title>
+    <ns1:release_year>1991</ns1:release_year>
+    <ns1:locations></ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#273">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Looking Season 2 ep 209</ns1:movie_title>
+    <ns1:release_year>2015</ns1:release_year>
+    <ns1:locations>SF Zoo, 2945 Sloat Blvd</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#24">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>It Came From Beneath the Sea</ns1:movie_title>
+    <ns1:release_year>1955</ns1:release_year>
+    <ns1:locations>Hunters Point</ns1:locations>
+    <ns1:fun_facts>With 23 miles of ladders and 300,000 rivets in each tower, the Golden Gate Bridge was the world's longest span when it opened in 1937.</ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#296">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Looking "Special"</ns1:movie_title>
+    <ns1:release_year>2016</ns1:release_year>
+    <ns1:locations>Capital Restaurant, 839 Clay Street</ns1:locations>
+    <ns1:fun_facts>Russell Tovey originally auditioned for the role of Patrick, but was unsuccessful. After the show got picked up, the character of Kevin was written with him in mind.</ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#258">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Murder in the First, Season 1</ns1:movie_title>
+    <ns1:release_year>2014</ns1:release_year>
+    <ns1:locations>1821 Alabama Street</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#89">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Hard to Hold</ns1:movie_title>
+    <ns1:release_year>1984</ns1:release_year>
+    <ns1:locations>Fairmont Hotel (950 Mason Street, Nob Hill)</ns1:locations>
+    <ns1:fun_facts>In 1945 the Fairmont hosted the United Nations Conference on International Organization as delegates arrived to draft a charter for the organization. The U.S. Secretary of State, Edward Stettinius drafted the charter in the hotel's Garden Room.</ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#193">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>By Hook or By Crook</ns1:movie_title>
+    <ns1:release_year>2001</ns1:release_year>
+    <ns1:locations>The Lexington Club (3464 19th Street at Lexington)</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#325">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Clickbait</ns1:movie_title>
+    <ns1:release_year>2021</ns1:release_year>
+    <ns1:locations>Pier 7</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#20">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Woman on the Run</ns1:movie_title>
+    <ns1:release_year>1950</ns1:release_year>
+    <ns1:locations>Former Hall of Justice (750 Kearny Street at Washington)</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#70">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Foul Play</ns1:movie_title>
+    <ns1:release_year>1978</ns1:release_year>
+    <ns1:locations>War Memorial Opera House (401 Van Ness Avenue)</ns1:locations>
+    <ns1:fun_facts>In 1945 the United Nations had its first conference at The War Memorial Opera House.</ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#29">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>On the Beach</ns1:movie_title>
+    <ns1:release_year>1959</ns1:release_year>
+    <ns1:locations></ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#158">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>The Fan</ns1:movie_title>
+    <ns1:release_year>1996</ns1:release_year>
+    <ns1:locations>Candlestick Park (602 Jamestown Ave.)</ns1:locations>
+    <ns1:fun_facts>Then Vice President Richard Nixon threw out the first pitch when Candlestick opened in 1960. On August 29, 1966, The Beatles played their last concert for paying fans at Candlestick Park.</ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#49">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Take the Money and Run</ns1:movie_title>
+    <ns1:release_year>1969</ns1:release_year>
+    <ns1:locations>Mission Street</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#278">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Sense8</ns1:movie_title>
+    <ns1:release_year>2015</ns1:release_year>
+    <ns1:locations>18th Street between Guerrero and Valencia Streets</ns1:locations>
+    <ns1:fun_facts>Re-enactment of "Dyke's on Bikes" and "Dyke March"</ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#144">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>When a Man Loves a Woman</ns1:movie_title>
+    <ns1:release_year>1994</ns1:release_year>
+    <ns1:locations>Buena Vista CafÃ© (2765 Hyde Street)</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#260">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Parks and Recreation</ns1:movie_title>
+    <ns1:release_year>2014</ns1:release_year>
+    <ns1:locations>Filbert from Hyde to Leavenworth</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#28">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Vertigo</ns1:movie_title>
+    <ns1:release_year>1958</ns1:release_year>
+    <ns1:locations>Palace of Fine Arts (3301 Lyon Street)</ns1:locations>
+    <ns1:fun_facts>The original Palace was built for the 1915 Panama-Pacific Exposition, and completely destroyed in 1964. It was rebuilt in 1965.</ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#238">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>God is a Communist?* (show me heart universe)</ns1:movie_title>
+    <ns1:release_year>2010</ns1:release_year>
+    <ns1:locations>Sacramento &amp; Washington Streets</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#53">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>The Organization</ns1:movie_title>
+    <ns1:release_year>1971</ns1:release_year>
+    <ns1:locations></ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#9">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Shadow of the Thin Man</ns1:movie_title>
+    <ns1:release_year>1941</ns1:release_year>
+    <ns1:locations>Bay Bridge</ns1:locations>
+    <ns1:fun_facts>Before opening in 1936, the bridge was blessed by Cardinal Secretary of State Eugenio Pacelli, who later became Pope Pius XII.</ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#234">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Zodiac</ns1:movie_title>
+    <ns1:release_year>2007</ns1:release_year>
+    <ns1:locations>SF Chronicle Building (901 Mission St)</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#107">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>The Presidio</ns1:movie_title>
+    <ns1:release_year>1988</ns1:release_year>
+    <ns1:locations>Washington Street &amp; Waverly Place (Chinatown)</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#265">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>I Am Michael</ns1:movie_title>
+    <ns1:release_year>2015</ns1:release_year>
+    <ns1:locations>Flint &amp; 16th (Castro)</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#34">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Swingin' Along</ns1:movie_title>
+    <ns1:release_year>1961</ns1:release_year>
+    <ns1:locations>Powell Street</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#85">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Star Trek II : The Wrath of Khan</ns1:movie_title>
+    <ns1:release_year>1982</ns1:release_year>
+    <ns1:locations>Golden Gate Park</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#306">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>When We Rise</ns1:movie_title>
+    <ns1:release_year>2017</ns1:release_year>
+    <ns1:locations>City Hall</ns1:locations>
+    <ns1:fun_facts>Exterior scenes include re-creating the White Night Riots on May 21, 1979 and the Gay Freedom March. Interior scenes included the wedding ceremony for Roma and Diane which had a few Board of Supervisors in the ceremony. The current Clerk for the Board of Supervisors played herself in one of the scenes filmed in the Chambers.</ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#322">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Venom: Let There Be Carnage</ns1:movie_title>
+    <ns1:release_year>2021</ns1:release_year>
+    <ns1:locations>O'Farrell between Leavenworth and Jones</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#314">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Tales of the City</ns1:movie_title>
+    <ns1:release_year>2019</ns1:release_year>
+    <ns1:locations>Macondray Ln and Taylor btwn Union and Green</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#294">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Chance- Season 1 ep109</ns1:movie_title>
+    <ns1:release_year>2016</ns1:release_year>
+    <ns1:locations>Terry A. Francois Blvd.</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#151">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Dream for an Insomniac</ns1:movie_title>
+    <ns1:release_year>1996</ns1:release_year>
+    <ns1:locations>Baker Beach</ns1:locations>
+    <ns1:fun_facts>From 1986-1990, the north end of Baker Beach was home to the Burning Man festival.</ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#37">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Experiment in Terror</ns1:movie_title>
+    <ns1:release_year>1962</ns1:release_year>
+    <ns1:locations>George Washington High School (600 32nd Avenue )</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#311">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>A Taiwanese Tale of Two Cities</ns1:movie_title>
+    <ns1:release_year>2018</ns1:release_year>
+    <ns1:locations>Dolores Park</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#126">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Memoirs of an Invisible Man</ns1:movie_title>
+    <ns1:release_year>1992</ns1:release_year>
+    <ns1:locations>St. Elizabeth Apartment House (901 Powell Street at Sacramento)</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#300">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Ballers Season 3</ns1:movie_title>
+    <ns1:release_year>2017</ns1:release_year>
+    <ns1:locations>Fairmont Hotel (950 Mason Street, Nob Hill)</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#182">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>The Matrix</ns1:movie_title>
+    <ns1:release_year>1999</ns1:release_year>
+    <ns1:locations>skyline/ exterior scenes</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#171">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Doctor Dolittle</ns1:movie_title>
+    <ns1:release_year>1998</ns1:release_year>
+    <ns1:locations>Webster Street</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#155">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>James and the Giant Peach</ns1:movie_title>
+    <ns1:release_year>1996</ns1:release_year>
+    <ns1:locations></ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#149">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>The Net</ns1:movie_title>
+    <ns1:release_year>1995</ns1:release_year>
+    <ns1:locations>Moscone Convention Center</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#228">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Rent</ns1:movie_title>
+    <ns1:release_year>2005</ns1:release_year>
+    <ns1:locations>Treasure Island</ns1:locations>
+    <ns1:fun_facts>An artificial island, Treasure Island was created for the 1939 Golden Gate International Exposition, and is named after the novel by Robert Louis Stevenson, a one-time San Francisco resident.</ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#241">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Hemingway &amp; Gelhorn</ns1:movie_title>
+    <ns1:release_year>2011</ns1:release_year>
+    <ns1:locations>Muni Metro East (501 Cesar Chavez)</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#259">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Need For Speed</ns1:movie_title>
+    <ns1:release_year>2014</ns1:release_year>
+    <ns1:locations>Embarcadero from Broadway to Folsom</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#69">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Faces of Death</ns1:movie_title>
+    <ns1:release_year>1978</ns1:release_year>
+    <ns1:locations></ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#282">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Terminator - Genisys</ns1:movie_title>
+    <ns1:release_year>2015</ns1:release_year>
+    <ns1:locations>16th and Utah</ns1:locations>
+    <ns1:fun_facts>Helicopter flies over Utah St. from 16th, rises up before freeway</ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#38">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>The Birds</ns1:movie_title>
+    <ns1:release_year>1963</ns1:release_year>
+    <ns1:locations>Powell and Geary Streets (Union Square)</ns1:locations>
+    <ns1:fun_facts>The pet shop featured in the film does not exist, but was based on the now-closed Robison's House of Pets formerly located on Maiden Lane.</ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#79">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>The Competition</ns1:movie_title>
+    <ns1:release_year>1980</ns1:release_year>
+    <ns1:locations>Pier 39</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#284">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Birth of the Dragon</ns1:movie_title>
+    <ns1:release_year>2016</ns1:release_year>
+    <ns1:locations>Lands End Trail at Eagles Point/ Lincoln Park Golf Course</ns1:locations>
+    <ns1:fun_facts>The character of Steve McKee was based on actor Steve McQueen who studied with Bruce Lee in the later 60's.</ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#23">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>The Caine Mutiny</ns1:movie_title>
+    <ns1:release_year>1954</ns1:release_year>
+    <ns1:locations>The Embarcadero</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#46">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Psych-Out</ns1:movie_title>
+    <ns1:release_year>1968</ns1:release_year>
+    <ns1:locations></ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#252">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>About a Boy</ns1:movie_title>
+    <ns1:release_year>2014</ns1:release_year>
+    <ns1:locations>Broderick from Fulton to McAlister</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#14">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Nora Prentiss</ns1:movie_title>
+    <ns1:release_year>1947</ns1:release_year>
+    <ns1:locations>Belgravia Apartments (795 Sutter Street at Jones)</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#276">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Quitters</ns1:movie_title>
+    <ns1:release_year>2015</ns1:release_year>
+    <ns1:locations>1536 Noe St.</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#61">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Herbie Rides Again</ns1:movie_title>
+    <ns1:release_year>1974</ns1:release_year>
+    <ns1:locations>Castagnola's Restaurant (Fisherman's Wharf)</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#304">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>GirlBoss</ns1:movie_title>
+    <ns1:release_year>2017</ns1:release_year>
+    <ns1:locations>Mission Dolores Park, 19th St. &amp; Dolores St.</ns1:locations>
+    <ns1:fun_facts>After the devastating earthquake of 1906, the park served as a refugee camp for more than 1600 families who lost their home in the disaster.</ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#202">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>40 Days and 40 Nights</ns1:movie_title>
+    <ns1:release_year>2002</ns1:release_year>
+    <ns1:locations>The Walden House, Buena Vista Park</ns1:locations>
+    <ns1:fun_facts>Established in 1867, Buena Vista Park is the oldest official park in San Francisco.</ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#21">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>The House on Telegraph Hill</ns1:movie_title>
+    <ns1:release_year>1951</ns1:release_year>
+    <ns1:locations>Telegraph Hill</ns1:locations>
+    <ns1:fun_facts>Largely untouched by the 1906 earthquake, Telegraph Hill has the most pre-1870 buildings in the city.</ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#127">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Raising Cain</ns1:movie_title>
+    <ns1:release_year>1992</ns1:release_year>
+    <ns1:locations></ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#150">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Down Periscope</ns1:movie_title>
+    <ns1:release_year>1996</ns1:release_year>
+    <ns1:locations></ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#66">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>High Anxiety</ns1:movie_title>
+    <ns1:release_year>1977</ns1:release_year>
+    <ns1:locations>Hyatt Regency Hotel (5 Embarcadero Center)</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#36">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Days of Wine and Roses</ns1:movie_title>
+    <ns1:release_year>1962</ns1:release_year>
+    <ns1:locations></ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#280">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Steve Jobs</ns1:movie_title>
+    <ns1:release_year>2015</ns1:release_year>
+    <ns1:locations>War Memorial Opera House (401 Van Ness Avenue)</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#27">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>The Lineup</ns1:movie_title>
+    <ns1:release_year>1958</ns1:release_year>
+    <ns1:locations>War Memorial Opera House (401 Van Ness Avenue)</ns1:locations>
+    <ns1:fun_facts>In 1945 the United Nations had its first conference at The War Memorial Opera House.</ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#76">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Heart Beat</ns1:movie_title>
+    <ns1:release_year>1980</ns1:release_year>
+    <ns1:locations>San Francisco Art Institute (800 Chestnut Street)</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#99">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Quicksilver</ns1:movie_title>
+    <ns1:release_year>1986</ns1:release_year>
+    <ns1:locations>Pacific Stock Exchange</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#3">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Greed</ns1:movie_title>
+    <ns1:release_year>1924</ns1:release_year>
+    <ns1:locations>Cliff House (1090 Point Lobos Avenue)</ns1:locations>
+    <ns1:fun_facts>In 1887, the Cliff House was severely damaged when the schooner Parallel, abandoned and loaded with dynamite, ran aground on the rocks below.</ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#181">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>The Bachelor</ns1:movie_title>
+    <ns1:release_year>1999</ns1:release_year>
+    <ns1:locations>Merchant Exchange (465 California Street at Leidesdorff)</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#190">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Romeo Must Die</ns1:movie_title>
+    <ns1:release_year>2000</ns1:release_year>
+    <ns1:locations>Chinatown</ns1:locations>
+    <ns1:fun_facts>First established in the mid-19th Century, SF's Chinatown is the oldest and largest Chinatown in the US.</ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#203">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Cherish</ns1:movie_title>
+    <ns1:release_year>2002</ns1:release_year>
+    <ns1:locations>387 Fair Oaks at 25th Street</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#264">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Cardinal X</ns1:movie_title>
+    <ns1:release_year>2015</ns1:release_year>
+    <ns1:locations>3639 Taraval St</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#164">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Flubber</ns1:movie_title>
+    <ns1:release_year>1997</ns1:release_year>
+    <ns1:locations>Treasure Island</ns1:locations>
+    <ns1:fun_facts>An artificial island, Treasure Island was created for the 1939 Golden Gate International Exposition, and is named after the novel by Robert Louis Stevenson, a one-time San Francisco resident.</ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#141">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Interview With The Vampire</ns1:movie_title>
+    <ns1:release_year>1994</ns1:release_year>
+    <ns1:locations>Ferry Building</ns1:locations>
+    <ns1:fun_facts>Every hour and half-hour, the clock bell atop the Ferry Building chimes portions of the Westminster Quarters.</ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#233">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>The Pursuit of Happyness</ns1:movie_title>
+    <ns1:release_year>2006</ns1:release_year>
+    <ns1:locations>Glen Park Subway Station</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#257">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Love &amp; Taxes</ns1:movie_title>
+    <ns1:release_year>2014</ns1:release_year>
+    <ns1:locations>The Marsh Theatre (1062 Valencia Street)</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#197">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Never Die Twice</ns1:movie_title>
+    <ns1:release_year>2001</ns1:release_year>
+    <ns1:locations>Postcard Row (Alamo Square, Hayes Valley)</ns1:locations>
+    <ns1:fun_facts>The 6 Victorian homes across from Alamo Square Park are among the few Victorians to survive the Great Fire.</ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#74">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Time After Time</ns1:movie_title>
+    <ns1:release_year>1979</ns1:release_year>
+    <ns1:locations>Lombard &amp; Laguna Streets (Marina District)</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#319">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Women is Losers</ns1:movie_title>
+    <ns1:release_year>2020</ns1:release_year>
+    <ns1:locations>Immaculate Conception Academy - 3625 24th St</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#4">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>The Jazz Singer</ns1:movie_title>
+    <ns1:release_year>1927</ns1:release_year>
+    <ns1:locations>Coffee Dan's (O'Farrell Street at Powell)</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#162">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Dream with the Fishes</ns1:movie_title>
+    <ns1:release_year>1997</ns1:release_year>
+    <ns1:locations>Pier 39</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#217">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>50 First Dates</ns1:movie_title>
+    <ns1:release_year>2004</ns1:release_year>
+    <ns1:locations>Rainforest CafÃ© (145 Jefferson Street)</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#82">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>48 Hours</ns1:movie_title>
+    <ns1:release_year>1982</ns1:release_year>
+    <ns1:locations></ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#90">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>The Times of Harvey Milk</ns1:movie_title>
+    <ns1:release_year>1984</ns1:release_year>
+    <ns1:locations>The Castro</ns1:locations>
+    <ns1:fun_facts>From 1910-1920 the Castro was called "Little Scandinavia" because of its high concentration of residents of Scandinavian ancestry.</ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#130">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Vegas in Space</ns1:movie_title>
+    <ns1:release_year>1992</ns1:release_year>
+    <ns1:locations>Project Artaud (Florida Street)</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#153">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Homeward Bound II: Lost in San Francisco</ns1:movie_title>
+    <ns1:release_year>1996</ns1:release_year>
+    <ns1:locations>Pier 39 (Fisherman's Wharf)</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#253">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Big Eyes</ns1:movie_title>
+    <ns1:release_year>2014</ns1:release_year>
+    <ns1:locations>Nobles Alley</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#174">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Sphere</ns1:movie_title>
+    <ns1:release_year>1998</ns1:release_year>
+    <ns1:locations>S.S. Jeremiah O'Brien</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#105">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>The Dead Pool</ns1:movie_title>
+    <ns1:release_year>1988</ns1:release_year>
+    <ns1:locations>San Francisco Drydock (The Dogpatch)</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#122">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>The Doors</ns1:movie_title>
+    <ns1:release_year>1991</ns1:release_year>
+    <ns1:locations></ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#169">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>City of Angels</ns1:movie_title>
+    <ns1:release_year>1998</ns1:release_year>
+    <ns1:locations>San Francisco Public Library Main Branch (100 Larkin Street)</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#7">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>San Francisco</ns1:movie_title>
+    <ns1:release_year>1936</ns1:release_year>
+    <ns1:locations>The Barbary Coast</ns1:locations>
+    <ns1:fun_facts>The Barbary Coast was a red-light district that was largely destroyed in the 1906 earthquake. Though some of the establishments were rebuilt after the earthquake, an anti-vice campaign put the establishments out of business.</ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#55">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>The Candidate</ns1:movie_title>
+    <ns1:release_year>1972</ns1:release_year>
+    <ns1:locations>Westin St. Francis Hotel (335 Powell Street, Union Square)</ns1:locations>
+    <ns1:fun_facts>The hotel was originally supposed to be named the Crocker Hotel, after Charles Founder the railroad magnate who founded it. However, the hotel took the name the St. Francis after one of the earliest Gold Rush hotels.</ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#33">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Susan Slade</ns1:movie_title>
+    <ns1:release_year>1961</ns1:release_year>
+    <ns1:locations>On Board the SS President Cleveland, docked at Pier 50</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#172">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>How Stella Got Her Groove Back</ns1:movie_title>
+    <ns1:release_year>1998</ns1:release_year>
+    <ns1:locations>Marriot Hotel (55 4th Street at Market)</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#215">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>The Fog of War</ns1:movie_title>
+    <ns1:release_year>2003</ns1:release_year>
+    <ns1:locations></ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#298">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Pushing Dead</ns1:movie_title>
+    <ns1:release_year>2016</ns1:release_year>
+    <ns1:locations>Blind Cat, 3050 24th Street, San Francisco</ns1:locations>
+    <ns1:fun_facts>Pushing Dead won the Audience Award for  Frameline San Francisco International LGBTQ Film Festival 
+2016</ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#135">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Sister Act 2: Back in the Habit</ns1:movie_title>
+    <ns1:release_year>1993</ns1:release_year>
+    <ns1:locations>St. Peter &amp; Paul's Church (666 Filbert Street, Washington Square)</ns1:locations>
+    <ns1:fun_facts>Though Marilyn Monroe and Joe DiMaggio were not allowed to be married at the Church (DiMaggio had married his first wife at the Church but was divorced), the couple returned to the steps of the Church for photos, following their City Hall nuptials.</ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#201">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>The Wedding Planner</ns1:movie_title>
+    <ns1:release_year>2001</ns1:release_year>
+    <ns1:locations>Grace Cathedral Episcopal Church (1100 California Street)</ns1:locations>
+    <ns1:fun_facts>Grace Cathedral Episcopal Church is the West Coast's largest Episcopalian cathedral.</ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#5">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Barbary Coast</ns1:movie_title>
+    <ns1:release_year>1935</ns1:release_year>
+    <ns1:locations></ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#157">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Phenomenon</ns1:movie_title>
+    <ns1:release_year>1996</ns1:release_year>
+    <ns1:locations>Treasure Island</ns1:locations>
+    <ns1:fun_facts>An artificial island, Treasure Island was created for the 1939 Golden Gate International Exposition, and is named after the novel by Robert Louis Stevenson, a one-time San Francisco resident.</ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#198">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Serendipity</ns1:movie_title>
+    <ns1:release_year>2001</ns1:release_year>
+    <ns1:locations></ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#219">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Fandom</ns1:movie_title>
+    <ns1:release_year>2004</ns1:release_year>
+    <ns1:locations></ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#235">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Milk</ns1:movie_title>
+    <ns1:release_year>2008</ns1:release_year>
+    <ns1:locations>Duboce Park</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#44">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Bullitt</ns1:movie_title>
+    <ns1:release_year>1968</ns1:release_year>
+    <ns1:locations>Bayshore Blvd near Cesar Chavez (Bayview)</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#223">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>What the Bleep Do We Know</ns1:movie_title>
+    <ns1:release_year>2004</ns1:release_year>
+    <ns1:locations>Golden Gate National Recreation Area</ns1:locations>
+    <ns1:fun_facts>The size of the Recreation Area is over two and a half greater than that of the city and county of San Francisco.</ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#250">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Red Widow</ns1:movie_title>
+    <ns1:release_year>2013</ns1:release_year>
+    <ns1:locations>York &amp; 24th St.</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#224">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>24 Hours on Craigslist</ns1:movie_title>
+    <ns1:release_year>2005</ns1:release_year>
+    <ns1:locations></ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#120">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Star Trek VI: The Undiscovered Country</ns1:movie_title>
+    <ns1:release_year>1991</ns1:release_year>
+    <ns1:locations>Golden Gate Bridge</ns1:locations>
+    <ns1:fun_facts>With 23 miles of ladders and 300,000 rivets in each tower, the Golden Gate Bridge was the world's longest span when it opened in 1937.</ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#317">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>DEVS</ns1:movie_title>
+    <ns1:release_year>2020</ns1:release_year>
+    <ns1:locations>20th at Noe St</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#165">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>George of the Jungle</ns1:movie_title>
+    <ns1:release_year>1997</ns1:release_year>
+    <ns1:locations>755 Vallejo Street</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#177">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Bicentennial Man</ns1:movie_title>
+    <ns1:release_year>1999</ns1:release_year>
+    <ns1:locations>City Hall</ns1:locations>
+    <ns1:fun_facts>The dome of SF's City Hall is almost a foot taller than that of the US Capitol Building. In 1954, Joe DiMaggio and Marilyn Monroe married at the Beaux Arts-style building.</ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#47">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>The Love Bug</ns1:movie_title>
+    <ns1:release_year>1968</ns1:release_year>
+    <ns1:locations>Golden Gate Bridge</ns1:locations>
+    <ns1:fun_facts>With 23 miles of ladders and 300,000 rivets in each tower, the Golden Gate Bridge was the world's longest span when it opened in 1937.</ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#114">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Another 48 Hours</ns1:movie_title>
+    <ns1:release_year>1990</ns1:release_year>
+    <ns1:locations></ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#137">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>The Nightmare Before Christmas</ns1:movie_title>
+    <ns1:release_year>1993</ns1:release_year>
+    <ns1:locations></ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#271">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Looking Season 2 ep 207</ns1:movie_title>
+    <ns1:release_year>2015</ns1:release_year>
+    <ns1:locations>770 Haight Street</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#195">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Haiku Tunnel</ns1:movie_title>
+    <ns1:release_year>2001</ns1:release_year>
+    <ns1:locations></ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#205">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Rollerball</ns1:movie_title>
+    <ns1:release_year>2002</ns1:release_year>
+    <ns1:locations></ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#192">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Woman on Top</ns1:movie_title>
+    <ns1:release_year>2000</ns1:release_year>
+    <ns1:locations>312 Fillmore Street</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#295">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Chance- Season 1 ep110</ns1:movie_title>
+    <ns1:release_year>2016</ns1:release_year>
+    <ns1:locations>San Francisco General Hospital</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#326">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>The Matrix Resurrections</ns1:movie_title>
+    <ns1:release_year>2021</ns1:release_year>
+    <ns1:locations>House of Nanking, 919 Kearny</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#48">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Yours, Mine and Ours</ns1:movie_title>
+    <ns1:release_year>1968</ns1:release_year>
+    <ns1:locations></ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#103">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Beaches</ns1:movie_title>
+    <ns1:release_year>1988</ns1:release_year>
+    <ns1:locations></ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#8">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Alexander's Ragtime Band</ns1:movie_title>
+    <ns1:release_year>1938</ns1:release_year>
+    <ns1:locations>Cliff House (1090 Point Lobos Avenue)</ns1:locations>
+    <ns1:fun_facts>In 1887, the Cliff House was severely damaged when the schooner Parallel, abandoned and loaded with dynamite, ran aground on the rocks below.</ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#159">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>The Rock</ns1:movie_title>
+    <ns1:release_year>1996</ns1:release_year>
+    <ns1:locations>Palace of Fine Arts (3301 Lyon Street)</ns1:locations>
+    <ns1:fun_facts>The original Palace was built for the 1915 Panama-Pacific Exposition, and completely destroyed in 1964. It was rebuilt in 1965.</ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#125">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Final Analysis</ns1:movie_title>
+    <ns1:release_year>1992</ns1:release_year>
+    <ns1:locations>Westin St. Francis Hotel (335 Powell Street, Union Square)</ns1:locations>
+    <ns1:fun_facts>The hotel was originally supposed to be named the Crocker Hotel, after Charles Founder the railroad magnate who founded it. However, the hotel took the name the St. Francis after one of the earliest Gold Rush hotels.</ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#209">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>House of Sand and Fog</ns1:movie_title>
+    <ns1:release_year>2003</ns1:release_year>
+    <ns1:locations></ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#315">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>The Last Black Man in San Francisco</ns1:movie_title>
+    <ns1:release_year>2019</ns1:release_year>
+    <ns1:locations>Folsom btwn Cortland and Eugenia Ave</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#320">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Shit and Champagne</ns1:movie_title>
+    <ns1:release_year>2020</ns1:release_year>
+    <ns1:locations>Oasis Nightclub - 298 11th St</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#324">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Shang-Chi and the Legend of the Ten Rings</ns1:movie_title>
+    <ns1:release_year>2021</ns1:release_year>
+    <ns1:locations>Caifornia, Mason, Powell, Joice St and Stockton</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#92">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Thief of Hearts</ns1:movie_title>
+    <ns1:release_year>1984</ns1:release_year>
+    <ns1:locations></ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#56">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>What's Up Doc?</ns1:movie_title>
+    <ns1:release_year>1972</ns1:release_year>
+    <ns1:locations>St. Peter &amp; Paul's Church (666 Filbert Street, Washington Square)</ns1:locations>
+    <ns1:fun_facts>Though Marilyn Monroe and Joe DiMaggio were not allowed to be married at the Church (DiMaggio had married his first wife at the Church but was divorced), the couple returned to the steps of the Church for photos, following their City Hall nuptials.</ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#108">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Tucker: The Man and His Dream</ns1:movie_title>
+    <ns1:release_year>1988</ns1:release_year>
+    <ns1:locations>City Hall</ns1:locations>
+    <ns1:fun_facts>The dome of SF's City Hall is almost a foot taller than that of the US Capitol Building. In 1954, Joe DiMaggio and Marilyn Monroe married at the Beaux Arts-style building.</ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#145">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Copycat</ns1:movie_title>
+    <ns1:release_year>1995</ns1:release_year>
+    <ns1:locations>Treasure Island</ns1:locations>
+    <ns1:fun_facts>An artificial island, Treasure Island was created for the 1939 Golden Gate International Exposition, and is named after the novel by Robert Louis Stevenson, a one-time San Francisco resident.</ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#281">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Summertime</ns1:movie_title>
+    <ns1:release_year>2015</ns1:release_year>
+    <ns1:locations>Fisherman's Wharf pier near Chapel (Port Walk #19)</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#204">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>High Crimes</ns1:movie_title>
+    <ns1:release_year>2002</ns1:release_year>
+    <ns1:locations>Bank of America Building (555 California Street)</ns1:locations>
+    <ns1:fun_facts>The Bank of America Building was the tallest building on the West Coast from 1969-1972, when it was surpassed by the TransAmerica Pyramid. Today, the Bank of America building is the 5th tallest building on the West Coast.</ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#207">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Confessions of a Burning Man</ns1:movie_title>
+    <ns1:release_year>2003</ns1:release_year>
+    <ns1:locations></ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#72">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Superman</ns1:movie_title>
+    <ns1:release_year>1978</ns1:release_year>
+    <ns1:locations>Golden Gate Bridge</ns1:locations>
+    <ns1:fun_facts>With 23 miles of ladders and 300,000 rivets in each tower, the Golden Gate Bridge was the world's longest span when it opened in 1937.</ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#57">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>American Graffiti</ns1:movie_title>
+    <ns1:release_year>1973</ns1:release_year>
+    <ns1:locations>Mel's Drive-In (Corner of Van Ness &amp; Mission Street, Mission District)</ns1:locations>
+    <ns1:fun_facts>This restaurant location was demolished; however another Mel's was reopened in 1986 on 3355 Geary Blvd.</ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#148">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Panther</ns1:movie_title>
+    <ns1:release_year>1995</ns1:release_year>
+    <ns1:locations></ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#308">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Ant-Man and the Wasp</ns1:movie_title>
+    <ns1:release_year>2018</ns1:release_year>
+    <ns1:locations>490 Geary St</ns1:locations>
+    <ns1:fun_facts>VFX Plate Shots</ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#91">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>The Woman In Red</ns1:movie_title>
+    <ns1:release_year>1984</ns1:release_year>
+    <ns1:locations>Postcard Row (Alamo Square, Hayes Valley)</ns1:locations>
+    <ns1:fun_facts>The 6 Victorian homes across from Alamo Square Park are among the few Victorians to survive the Great Fire.</ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#240">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>180</ns1:movie_title>
+    <ns1:release_year>2011</ns1:release_year>
+    <ns1:locations>Epic Roasthouse (399 Embarcadero)</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#237">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Broken-A Modern Love Story</ns1:movie_title>
+    <ns1:release_year>2010</ns1:release_year>
+    <ns1:locations>Ina Coolbrith Park (1700 Taylor Street)</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#180">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Stigmata</ns1:movie_title>
+    <ns1:release_year>1999</ns1:release_year>
+    <ns1:locations>19th and Kansas St.</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#229">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>The Californians</ns1:movie_title>
+    <ns1:release_year>2005</ns1:release_year>
+    <ns1:locations></ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#12">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Hello Frisco, Hello</ns1:movie_title>
+    <ns1:release_year>1943</ns1:release_year>
+    <ns1:locations></ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#40">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Marnie</ns1:movie_title>
+    <ns1:release_year>1964</ns1:release_year>
+    <ns1:locations>On Board the SS President Cleveland, docked at Pier 50</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#140">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Golden Gate</ns1:movie_title>
+    <ns1:release_year>1994</ns1:release_year>
+    <ns1:locations>Ross Alley (Chinatown)</ns1:locations>
+    <ns1:fun_facts>Ross Alley is the oldest alley in San Francisco.</ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#111">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Fat Man and Little Boy</ns1:movie_title>
+    <ns1:release_year>1989</ns1:release_year>
+    <ns1:locations>Postcard Row (Alamo Square, Hayes Valley)</ns1:locations>
+    <ns1:fun_facts>The 6 Victorian homes across from Alamo Square Park are among the few Victorians to survive the Great Fire.</ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#208">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Dopamine</ns1:movie_title>
+    <ns1:release_year>2003</ns1:release_year>
+    <ns1:locations>South Park (Between 2nd and 3rd Streets, Brannan and Bryant Streets)</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#84">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Shoot the Moon</ns1:movie_title>
+    <ns1:release_year>1982</ns1:release_year>
+    <ns1:locations>Fairmont Hotel (950 Mason Street, Nob Hill)</ns1:locations>
+    <ns1:fun_facts>In 1945 the Fairmont hosted the United Nations Conference on International Organization as delegates arrived to draft a charter for the organization. The U.S. Secretary of State, Edward Stettinius drafted the charter in the hotel's Garden Room.</ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#101">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Burglar</ns1:movie_title>
+    <ns1:release_year>1987</ns1:release_year>
+    <ns1:locations>California Academy of Sciences (Golden Gate Park)</ns1:locations>
+    <ns1:fun_facts>Founded in 1853, 3 years after California joined the United States, the Academy was originally named the California Academy of Natural Sciences and was the first institution of its kind in the United States.</ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#220">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Red Diaper Baby</ns1:movie_title>
+    <ns1:release_year>2004</ns1:release_year>
+    <ns1:locations>Magic Theater (Fort Mason, Golden Gate National Recreation Area)</ns1:locations>
+    <ns1:fun_facts>Constructed in 1864 as a coastal defense site, Fort Mason went on to serve as an army post for more than 100 years.</ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#168">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Around the Fire</ns1:movie_title>
+    <ns1:release_year>1998</ns1:release_year>
+    <ns1:locations>Ocean Beach</ns1:locations>
+    <ns1:fun_facts>On Jan. 25, 1878, the King Philip ship crashed in Ocean Beach. Occasionally, the ship's wreckage may be found on the beach-- most recently it was seen in 2007.</ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#112">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Indiana Jones and the Last Crusade</ns1:movie_title>
+    <ns1:release_year>1989</ns1:release_year>
+    <ns1:locations>Administration Building (Treasure Island)</ns1:locations>
+    <ns1:fun_facts>An artificial island, Treasure Island was created for the 1939 Golden Gate International Exposition, and is named after the novel by Robert Louis Stevenson, a one-time San Francisco resident.</ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#246">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>The Master</ns1:movie_title>
+    <ns1:release_year>2012</ns1:release_year>
+    <ns1:locations>Pier 7/ Embarcadero</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#267">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Looking Season 2 ep 203</ns1:movie_title>
+    <ns1:release_year>2015</ns1:release_year>
+    <ns1:locations>Balboa pool Lot, San Jose Avenue &amp; Havelock St</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#60">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Freebie and the Bean</ns1:movie_title>
+    <ns1:release_year>1974</ns1:release_year>
+    <ns1:locations>Alco Plaza</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#227">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Night of Henna</ns1:movie_title>
+    <ns1:release_year>2005</ns1:release_year>
+    <ns1:locations></ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#147">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Nine Months</ns1:movie_title>
+    <ns1:release_year>1995</ns1:release_year>
+    <ns1:locations>The Malloch Apartment Building (1360 Montgomery Street)</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#123">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Until the End of the World</ns1:movie_title>
+    <ns1:release_year>1991</ns1:release_year>
+    <ns1:locations>Tosca CafÃ© (242 Columbus Avenue, North Beach)</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#196">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Mission (aka City of Bars)</ns1:movie_title>
+    <ns1:release_year>2001</ns1:release_year>
+    <ns1:locations>The 500 Club (500 Guerrero Street, Mission District)</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#138">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Forrest Gump</ns1:movie_title>
+    <ns1:release_year>1994</ns1:release_year>
+    <ns1:locations>Palace of Fine Arts (3301 Lyon Street)</ns1:locations>
+    <ns1:fun_facts>The original Palace was built for the 1915 Panama-Pacific Exposition, and completely destroyed in 1964. It was rebuilt in 1965.</ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#109">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Casualties of War</ns1:movie_title>
+    <ns1:release_year>1989</ns1:release_year>
+    <ns1:locations>Mission Dolores Park (Mission District) via J-Church MUNI Train</ns1:locations>
+    <ns1:fun_facts>The two land plots that comprise the Park were used as a Jewish cemetery until 1894 when San Francisco prohibited all burials within city limits. The graves were moved to Colma, CA.</ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#179">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Seven Girlfriends</ns1:movie_title>
+    <ns1:release_year>1999</ns1:release_year>
+    <ns1:locations>Golden Gate Bridge</ns1:locations>
+    <ns1:fun_facts>With 23 miles of ladders and 300,000 rivets in each tower, the Golden Gate Bridge was the world's longest span when it opened in 1937.</ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#142">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Junior</ns1:movie_title>
+    <ns1:release_year>1994</ns1:release_year>
+    <ns1:locations>2552 Hyde Street</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#71">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Invasion of the Body Snatchers</ns1:movie_title>
+    <ns1:release_year>1978</ns1:release_year>
+    <ns1:locations>Pier 33 (Embarcadero)</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#116">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Pretty Woman</ns1:movie_title>
+    <ns1:release_year>1990</ns1:release_year>
+    <ns1:locations></ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#2">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>A Jitney Elopement</ns1:movie_title>
+    <ns1:release_year>1915</ns1:release_year>
+    <ns1:locations>Golden Gate Park</ns1:locations>
+    <ns1:fun_facts>During San Francisco's Gold Rush era, the Park was part of an area designated as the "Great Sand Waste".</ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#121">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>The Doctor</ns1:movie_title>
+    <ns1:release_year>1991</ns1:release_year>
+    <ns1:locations></ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#43">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>The Graduate</ns1:movie_title>
+    <ns1:release_year>1967</ns1:release_year>
+    <ns1:locations>San Francisco Zoo (2701 Sloat Blvd.)</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#64">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Family Plot</ns1:movie_title>
+    <ns1:release_year>1976</ns1:release_year>
+    <ns1:locations>Grace Cathedral Episcopal Church (1100 California Street)</ns1:locations>
+    <ns1:fun_facts>Grace Cathedral Episcopal Church is the West Coast's largest Episcopalian cathedral.</ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#113">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>True Believer</ns1:movie_title>
+    <ns1:release_year>1989</ns1:release_year>
+    <ns1:locations></ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#211">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Julie and Jack</ns1:movie_title>
+    <ns1:release_year>2003</ns1:release_year>
+    <ns1:locations></ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#242">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>I's</ns1:movie_title>
+    <ns1:release_year>2011</ns1:release_year>
+    <ns1:locations>1 Post Street</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#309">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Bitter Melon</ns1:movie_title>
+    <ns1:release_year>2018</ns1:release_year>
+    <ns1:locations>Pay and Save Grocery, 599 Guerrero St</ns1:locations>
+    <ns1:fun_facts>The film won Best Narrative Feature at the San Diego Asian Film Festival.</ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#255">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Godzilla</ns1:movie_title>
+    <ns1:release_year>2014</ns1:release_year>
+    <ns1:locations>Kearney &amp; Pine St.</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#226">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Just Like Heaven</ns1:movie_title>
+    <ns1:release_year>2005</ns1:release_year>
+    <ns1:locations></ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#88">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Crackers</ns1:movie_title>
+    <ns1:release_year>1984</ns1:release_year>
+    <ns1:locations>24th Street between Mission Street and Potrero Avenue</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#302">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Chance Season 2</ns1:movie_title>
+    <ns1:release_year>2017</ns1:release_year>
+    <ns1:locations>Marina Blvd between Baker and Fillmore St</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#214">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>The Core</ns1:movie_title>
+    <ns1:release_year>2003</ns1:release_year>
+    <ns1:locations>Golden Gate Bridge</ns1:locations>
+    <ns1:fun_facts>With 23 miles of ladders and 300,000 rivets in each tower, the Golden Gate Bridge was the world's longest span when it opened in 1937.</ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#129">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Sneakers</ns1:movie_title>
+    <ns1:release_year>1992</ns1:release_year>
+    <ns1:locations>The Embarcadero</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#80">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Chu Chu and the Philly Flash</ns1:movie_title>
+    <ns1:release_year>1981</ns1:release_year>
+    <ns1:locations>Transbay Terminal (Mission Street at 1st Street)</ns1:locations>
+    <ns1:fun_facts>Built in 1939, the Terminal linked San Francisco, the East Bay, and Sacramento by rail for the first time.</ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#13">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Dark Passage</ns1:movie_title>
+    <ns1:release_year>1947</ns1:release_year>
+    <ns1:locations>Golden Gate Bridge</ns1:locations>
+    <ns1:fun_facts>With 23 miles of ladders and 300,000 rivets in each tower, the Golden Gate Bridge was the world's longest span when it opened in 1937.</ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#272">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Looking Season 2 ep 208</ns1:movie_title>
+    <ns1:release_year>2015</ns1:release_year>
+    <ns1:locations>2450 Harrison Street</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#96">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Maxie</ns1:movie_title>
+    <ns1:release_year>1985</ns1:release_year>
+    <ns1:locations>Asian Art Museum (200 Larkin Street, Civic Center)</ns1:locations>
+    <ns1:fun_facts>The Dalai Lama opened an exhibition on Wisdom and Compassion at the museum in 1991.</ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#62">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>The Conversation</ns1:movie_title>
+    <ns1:release_year>1974</ns1:release_year>
+    <ns1:locations>American Roofing Co. Building (297 Kansas Street, Potrero Hill)</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#77">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Nine to Five</ns1:movie_title>
+    <ns1:release_year>1980</ns1:release_year>
+    <ns1:locations>Albert S. Samuels Clock (856 Market Street between Powell and Stockton)</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#110">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Common Threads: Stories From the Quilt</ns1:movie_title>
+    <ns1:release_year>1989</ns1:release_year>
+    <ns1:locations>The Castro</ns1:locations>
+    <ns1:fun_facts>From 1910-1920 the Castro was called "Little Scandinavia" because of its high concentration of residents of Scandinavian ancestry.</ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#321">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Alive</ns1:movie_title>
+    <ns1:release_year>2020</ns1:release_year>
+    <ns1:locations>Embarcadero near Pier 14</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#245">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>On the Road</ns1:movie_title>
+    <ns1:release_year>2012</ns1:release_year>
+    <ns1:locations>Bay Bridge</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#277">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>San Andreas</ns1:movie_title>
+    <ns1:release_year>2015</ns1:release_year>
+    <ns1:locations>2nd St. at Townsend St.</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#256">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Looking</ns1:movie_title>
+    <ns1:release_year>2014</ns1:release_year>
+    <ns1:locations>222 Mason St.</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#133">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Joy Luck Club</ns1:movie_title>
+    <ns1:release_year>1993</ns1:release_year>
+    <ns1:locations>Hang Ah Alley (Chinatown)</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#239">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Hereafter</ns1:movie_title>
+    <ns1:release_year>2010</ns1:release_year>
+    <ns1:locations>Hobart Building (582 Market Street)</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#249">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Knife Fight</ns1:movie_title>
+    <ns1:release_year>2013</ns1:release_year>
+    <ns1:locations>Green &amp; Laguna Streets</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#6">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>After the Thin Man</ns1:movie_title>
+    <ns1:release_year>1936</ns1:release_year>
+    <ns1:locations>Coit Tower</ns1:locations>
+    <ns1:fun_facts>The Tower was funded by a gift bequeathed by Lillie Hitchcock Coit, a socialite who reportedly liked to chase fires. Though the tower resembles a firehose nozzle, it was not designed this way.</ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#279">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Smile Again, Jenny Lee</ns1:movie_title>
+    <ns1:release_year>2015</ns1:release_year>
+    <ns1:locations>Manor West (750 Harrison St.)</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#288">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>Chance- Season 1 ep102</ns1:movie_title>
+    <ns1:release_year>2016</ns1:release_year>
+    <ns1:locations>Mason and Pacific</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#221">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>The Assassination of Richard Nixon</ns1:movie_title>
+    <ns1:release_year>2004</ns1:release_year>
+    <ns1:locations>Tosca CafÃ© (242 Columbus Avenue, North Beach)</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/my_ontology#283">
+    <rdf:type rdf:resource="http://schema.org/Movies"/>
+    <ns1:movie_title>The Diary of a Teenage Girl</ns1:movie_title>
+    <ns1:release_year>2015</ns1:release_year>
+    <ns1:locations>Victoria Theatre</ns1:locations>
+    <ns1:fun_facts></ns1:fun_facts>
+  </rdf:Description>
+</rdf:RDF>
