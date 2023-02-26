@@ -4,8 +4,8 @@ This project is about Semantic Data Generation where input datasets are converte
 
 Technology stack requirements- 
 
-Protégé Ontology Editor
-Python
-RDFLIB library (can be install using "pip install rdflib")
+Protégé Ontology Editor,
+Python,
+RDFLIB library (can be install using "pip install rdflib"),
 Visual Studio Code
 
